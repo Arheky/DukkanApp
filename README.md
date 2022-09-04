@@ -8,5 +8,6 @@
 * Axios
 * React Native Vector Icons
 * React Navigation
+* Async Storage
 ---
 ![Dukkan](./img/dukkan.gif)
